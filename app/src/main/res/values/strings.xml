@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Smart Budget</string>
+
+    <!-- Bottom Navigation Labels -->
+    <string name="nav_summary">Summary</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_incomes">Incomes</string>
+
+    <!-- Titles -->
+    <string name="title_summary">Financial Summary</string>
+    <string name="title_add_expense">Add Expense</string>
+    <string name="title_add_income">Add Income</string>
+    <string name="title_expense_history">Expense History</string>
+    <string name="title_income_history">Income History</string>
+
+    <!-- Input Field Hints -->
+    <string name="hint_expense_description">Expense Description</string>
+    <string name="hint_expense_amount">Expense Amount</string>
+    <string name="hint_income_description">Income Description</string>
+    <string name="hint_income_amount">Income Amount</string>
+
+    <!-- Buttons -->
+    <string name="btn_save_expense">Save Expense</string>
+    <string name="btn_save_income">Save Income</string>
+
+    <!-- Summary Fragment Texts -->
+    <string name="summary_total_expenses">Total Expenses: Rp %1$s</string>
+    <string name="summary_total_incomes">Total Incomes: Rp %1$s</string>
+    <string name="summary_net_balance">Net Balance: Rp %1$s</string>
+
+    <!-- Messages -->
+    <string name="msg_input_empty">Please fill in all fields!</string>
+    <string name="msg_invalid_number">Amount must be a valid number!</string>
+    <string name="msg_expense_added">Expense added successfully!</string>
+    <string name="msg_income_added">Income added successfully!</string>
+    <string name="msg_summary_load_error">Failed to load summary data.</string>
+</resources>
